@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.banklogin.test.BankLoginTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-01T04:11:52" hostname="DESKTOP-5THN1NT" time="7.529">
+  <properties/>
+  <testcase name="Should get error notification if user is not exist in base" classname="ru.netology.banklogin.test.BankLoginTest" time="4.864"/>
+  <testcase name="Should successfuly login to dashbord with exist login and pasword from sut test data" classname="ru.netology.banklogin.test.BankLoginTest" time="1.304"/>
+  <testcase name="Should get error notification if login whith exist in base and active user and random verification code" classname="ru.netology.banklogin.test.BankLoginTest" time="1.358"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+дек. 01, 2023 7:11:55 AM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 119, so returning the closest version found: 115
+]]></system-err>
+</testsuite>
